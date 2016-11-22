@@ -1,5 +1,4 @@
 # China - Duration of Train Journeys from City to City
-# 中国城市火车距离
 
 ### telecode.csv
 
@@ -10,7 +9,7 @@ variable names:
 - "pinyin" is the name of the train station, in pinyin (e.g. "beijingdong")
 - "telecode" is the unique three-letter telecode for the station (e.g. "VAP")
 
-# Chinese Instructions
+# Chinese Instructions 中国城市火车距离
 
 ### telecode.csv
 
